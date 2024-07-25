@@ -2,7 +2,9 @@
 
 👀 Interested in AI,ML,web development and software engineering .
 
-🌱 I’m a beginner at present ,hope i'll be a master soon.
+🌱 I hope i'll be a master soon.
+
+Goal: To become an entrepreneur
 
 I am looking for learning opportunities...
 
