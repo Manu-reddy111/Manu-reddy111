@@ -1,6 +1,6 @@
 👋 Hi, I’m @Manu-reddy111.
 
-👀 Interested in AI,ML,web development and software engineering .
+👀 Interested in AI,ML,web development and data science .
 
 🌱 I hope i'll be a master soon.
 
