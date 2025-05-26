@@ -1,14 +1,8 @@
-👋 Hi, I’m @Manu-reddy111.
-
-👀 Interested in AI,ML,web development and data science .
-
-🌱 I hope i'll be a master soon.
-
-Goal: To become an entrepreneur
-
-I am looking for learning opportunities...
-
-📫 How to reach me:through GitHub 
-
-⚡ Fun fact: Please dont judge me just by this,i have more content than u think i would consist.
-I'll update it soon...
+👋 Hi, I’m @Manu-reddy111 , an aspriring AI Engineer.
+👀 Interested in AI, ML, data science & web development.
+🚀 Currently sharpening my skills through hands-on projects, internships, and continuous learning in AI/ML, Deep Learning & Data Science.
+🎯 Goal: To become a future-ready AI Engineer and build innovative solutions that make real-world impact — with a long-term dream of becoming an entrepreneur.
+💡 Always exploring new challenges and learning opportunities in tech — open to collaborations, internships, and meaningful discussions.
+📚 Passionate about turning ideas into intelligent systems.
+📫 Let’s connect: Reach out via GitHub.
+⚡ Fun fact:  I may be a work in progress, but I’m built for big things. Watch this space — the best is yet to come.
